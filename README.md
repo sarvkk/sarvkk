@@ -8,6 +8,6 @@
 
 <!-- 🚀 #LearningInPublic—documenting my journey, challenges, and insights in my [digital garden](https://www.sarvajit.com.np/)  -->
 
-💡 Current Favorite topics: Transformers
+💡 Current Favorite topic: Transformers
 <!-- GitHub stats -->
 [![Sarvajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvkk&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/sarvkk/github-readme-stats)
