@@ -4,8 +4,9 @@
 
 👨‍💻 Exploring Machine Learning & Deep Learning, implementing research papers  
 📚 Computer Science student with a passion for AI and LLMs  
+📜 Currently working on LLMs and Deep learning basics
+
 <!-- 🚀 #LearningInPublic—documenting my journey, challenges, and insights in my [digital garden](https://www.sarvajit.com.np/)  -->
-📜 Currently working on LLMs, fraud detection, and text analysis in medical records  
 
 💡 Current Favorite topics: Transformers
 <!-- GitHub stats -->
